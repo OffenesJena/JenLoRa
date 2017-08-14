@@ -283,7 +283,8 @@
       "properties": {
         "marker-color": "#ff8080",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Talschule"
       },
       "geometry": {
         "type": "Point",
