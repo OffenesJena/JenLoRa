@@ -7,7 +7,7 @@
         "marker-color": "#00e100",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "GraphDefined GmbH"
+        "name": "Offenes Jena / GraphDefined GmbH"
       },
       "geometry": {
         "type": "Point",
@@ -22,7 +22,8 @@
       "properties": {
         "marker-color": "#008080",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "dotSource, angefragt 2017-08-20"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,8 @@
       "properties": {
         "marker-color": "#008080",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "IT Paradies, angefragt 2017-08-20"
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +55,7 @@
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Stadtwerke Jena"
+        "name": "Stadtwerke Jena, angefragt 2017-08-20"
       },
       "geometry": {
         "type": "Point",
@@ -100,7 +102,7 @@
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Lichtwerkstatt"
+        "name": "Lichtwerkstatt, angefragt 2017-08-07. Haben u.U. eigene Finanzmittel hierfür"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +149,9 @@
       "properties": {
         "marker-color": "#0080ff",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Fuchsturm",
+        "description": "Guter Blick auf Jena-Ost und Ziegenhain, Richtung Innenstadt steht jedoch zu viel Berg im Weg. Freies WLAN ist vor bereits Ort vorhanden."
       },
       "geometry": {
         "type": "Point",
@@ -162,7 +166,9 @@
       "properties": {
         "marker-color": "#0080ff",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Jenzig",
+        "description": "Auf der Laterne der Aussichtsplattform hätte man einen guten Rundumblick auf Jena. Problem dort dürfte der Blitz- und Diebstahlschutz sein."
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +198,8 @@
       "properties": {
         "marker-color": "#0080ff",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Lobdeburgklause"
       },
       "geometry": {
         "type": "Point",
@@ -221,9 +228,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff8080",
+        "marker-color": "#ff8000",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Numerik Jena GmbH"
       },
       "geometry": {
         "type": "Point",
@@ -315,7 +323,8 @@
       "properties": {
         "marker-color": "#ff8000",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "DAKO GmbH"
       },
       "geometry": {
         "type": "Point",
