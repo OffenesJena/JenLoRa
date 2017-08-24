@@ -5,19 +5,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -97,
+        "rssi": -97.0,
         "snr": 7.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#766600",
+        "marker-color": "#A03C00",
         "snr2": 33,
-        "rssi2": 102
+        "rssi2": 60
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.619440078735352,
-          50.93363952636719
+          50.933639526367188
         ]
       }
     },
@@ -25,12 +25,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -103,
-        "snr": 4.800000190734863,
+        "rssi": -103.0,
+        "snr": 4.8000001907348633,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#944800",
-        "rssi2": 72
+        "marker-color": "#B22A00",
+        "rssi2": 42
       },
       "geometry": {
         "type": "Point",
@@ -44,12 +44,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -111,
+        "rssi": -111.0,
         "snr": -4.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#BD1F00",
-        "rssi2": 31
+        "marker-color": "#CA1200",
+        "rssi2": 18
       },
       "geometry": {
         "type": "Point",
@@ -63,12 +63,183 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -106,
-        "snr": 2.799999952316284,
+        "rssi": -112.0,
+        "snr": -5.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A43800",
-        "rssi2": 56
+        "marker-color": "#CD0F00",
+        "rssi2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619640350341797,
+          50.9334716796875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -113.0,
+        "snr": -4.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#D00C00",
+        "rssi2": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61968994140625,
+          50.933490753173828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -110.0,
+        "snr": -3.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C71500",
+        "rssi2": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619779586791992,
+          50.933708190917969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -112.0,
+        "snr": 0.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#CD0F00",
+        "rssi2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619759559631348,
+          50.933731079101562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -113.0,
+        "snr": -3.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#D00C00",
+        "rssi2": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619729995727539,
+          50.933689117431641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -112.0,
+        "snr": -1.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#CD0F00",
+        "rssi2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619819641113281,
+          50.933509826660156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -111.0,
+        "snr": 1.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#CA1200",
+        "rssi2": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619739532470703,
+          50.933658599853516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -110.0,
+        "snr": 2.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C71500",
+        "rssi2": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619790077209473,
+          50.933631896972656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -109.0,
+        "snr": 1.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C41800",
+        "rssi2": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619799613952637,
+          50.933731079101562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -106.0,
+        "snr": 2.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BB2100",
+        "rssi2": 33
       },
       "geometry": {
         "type": "Point",
@@ -82,12 +253,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -106,
-        "snr": 3.200000047683716,
+        "rssi": -106.0,
+        "snr": 3.2000000476837158,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A43800",
-        "rssi2": 56
+        "marker-color": "#BB2100",
+        "rssi2": 33
       },
       "geometry": {
         "type": "Point",
@@ -101,18 +272,37 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -105,
-        "snr": -2.799999952316284,
+        "rssi": -112.0,
+        "snr": -1.2000000476837158,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#9F3D00",
-        "rssi2": 61
+        "marker-color": "#CD0F00",
+        "rssi2": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619759559631348,
+          50.933719635009766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -105.0,
+        "snr": -2.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B82400",
+        "rssi2": 36
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.615839958190918,
-          50.93342971801758
+          50.933429718017578
         ]
       }
     },
@@ -120,12 +310,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -110,
-        "snr": -3.200000047683716,
+        "rssi": -110.0,
+        "snr": -3.2000000476837158,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#B82400",
-        "rssi2": 36
+        "marker-color": "#C71500",
+        "rssi2": 21
       },
       "geometry": {
         "type": "Point",
@@ -139,18 +329,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -113,
-        "snr": -4.199999809265137,
+        "rssi": -113.0,
+        "snr": -4.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#C81400",
-        "rssi2": 20
+        "marker-color": "#D00C00",
+        "rssi2": 12
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.6074800491333,
-          50.93408966064453
+          50.934089660644531
         ]
       }
     },
@@ -158,19 +348,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -100,
-        "snr": 8.199999809265137,
+        "rssi": -100.0,
+        "snr": 8.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#855700",
+        "marker-color": "#A93300",
         "snr2": 43,
-        "rssi2": 87
+        "rssi2": 51
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.608229637145996,
-          50.93424987792969
+          50.934249877929688
         ]
       }
     },
@@ -178,13 +368,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -100,
-        "snr": 6.800000190734863,
+        "rssi": -100.0,
+        "snr": 6.8000001907348633,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#855700",
+        "marker-color": "#A93300",
         "snr2": 23,
-        "rssi2": 87
+        "rssi2": 51
       },
       "geometry": {
         "type": "Point",
@@ -198,18 +388,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -101,
+        "rssi": -101.0,
         "snr": 3.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#8A5200",
-        "rssi2": 82
+        "marker-color": "#AC3000",
+        "rssi2": 48
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.613349914550781,
-          50.93363952636719
+          50.933639526367188
         ]
       }
     },
@@ -217,19 +407,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -104,
-        "snr": 7.199999809265137,
+        "rssi": -104.0,
+        "snr": 7.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#994300",
+        "marker-color": "#B52700",
         "snr2": 29,
-        "rssi2": 67
+        "rssi2": 39
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.618470191955566,
-          50.93362045288086
+          50.933620452880859
         ]
       }
     },
@@ -237,19 +427,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -89,
-        "snr": 9.199999809265137,
+        "rssi": -89.0,
+        "snr": 9.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#4D8F00",
+        "marker-color": "#885400",
         "snr2": 57,
-        "rssi2": 143
+        "rssi2": 84
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.62362003326416,
-          50.93381118774414
+          50.933811187744141
         ]
       }
     },
@@ -257,8 +447,8 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -117,
-        "snr": 8,
+        "rssi": -117.0,
+        "snr": 8.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
         "marker-color": "#DC0000",
@@ -269,7 +459,7 @@
         "type": "Point",
         "coordinates": [
           11.629260063171387,
-          50.93381881713867
+          50.933818817138672
         ]
       }
     },
@@ -277,18 +467,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -106,
+        "rssi": -106.0,
         "snr": 1.2000000476837158,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A43800",
-        "rssi2": 56
+        "marker-color": "#BB2100",
+        "rssi2": 33
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.635890007019043,
-          50.93339157104492
+          50.933391571044922
         ]
       }
     },
@@ -296,12 +486,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -112,
-        "snr": -5,
+        "rssi": -112.0,
+        "snr": -5.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#C21A00",
-        "rssi2": 26
+        "marker-color": "#CD0F00",
+        "rssi2": 15
       },
       "geometry": {
         "type": "Point",
@@ -315,18 +505,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -111,
-        "snr": 2,
+        "rssi": -111.0,
+        "snr": 2.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#BD1F00",
-        "rssi2": 31
+        "marker-color": "#CA1200",
+        "rssi2": 18
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.655710220336914,
-          50.93217086791992
+          50.932170867919922
         ]
       }
     },
@@ -334,18 +524,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -105,
-        "snr": 5,
+        "rssi": -105.0,
+        "snr": 5.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#9F3D00",
-        "rssi2": 61
+        "marker-color": "#B82400",
+        "rssi2": 36
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.645549774169922,
-          50.93083953857422
+          50.930839538574219
         ]
       }
     },
@@ -353,18 +543,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -107,
+        "rssi": -107.0,
         "snr": 6.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A93300",
+        "marker-color": "#BE1E00",
         "snr2": 19,
-        "rssi2": 51
+        "rssi2": 30
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.64367961883545,
+          11.643679618835449,
           50.930931091308594
         ]
       }
@@ -373,19 +563,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -105,
+        "rssi": -105.0,
         "snr": 7.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#9F3D00",
+        "marker-color": "#B82400",
         "snr2": 33,
-        "rssi2": 61
+        "rssi2": 36
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.640800476074219,
-          50.93098831176758
+          50.930988311767578
         ]
       }
     },
@@ -393,12 +583,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -111,
+        "rssi": -111.0,
         "snr": -1.7999999523162842,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#BD1F00",
-        "rssi2": 31
+        "marker-color": "#CA1200",
+        "rssi2": 18
       },
       "geometry": {
         "type": "Point",
@@ -412,13 +602,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -100,
+        "rssi": -100.0,
         "snr": 8.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#855700",
+        "marker-color": "#A93300",
         "snr2": 47,
-        "rssi2": 87
+        "rssi2": 51
       },
       "geometry": {
         "type": "Point",
@@ -432,13 +622,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -104,
-        "snr": 7,
+        "rssi": -104.0,
+        "snr": 7.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#994300",
+        "marker-color": "#B52700",
         "snr2": 26,
-        "rssi2": 67
+        "rssi2": 39
       },
       "geometry": {
         "type": "Point",
@@ -452,19 +642,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -94,
-        "snr": 9.199999809265137,
+        "rssi": -94.0,
+        "snr": 9.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#667600",
+        "marker-color": "#974500",
         "snr2": 57,
-        "rssi2": 118
+        "rssi2": 69
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.63169002532959,
-          50.93178939819336
+          50.931789398193359
         ]
       }
     },
@@ -472,13 +662,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -97,
+        "rssi": -97.0,
         "snr": 8.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#766600",
+        "marker-color": "#A03C00",
         "snr2": 47,
-        "rssi2": 102
+        "rssi2": 60
       },
       "geometry": {
         "type": "Point",
@@ -492,13 +682,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -94,
+        "rssi": -94.0,
         "snr": 8.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#667600",
+        "marker-color": "#974500",
         "snr2": 47,
-        "rssi2": 118
+        "rssi2": 69
       },
       "geometry": {
         "type": "Point",
@@ -512,13 +702,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -103,
+        "rssi": -103.0,
         "snr": 5.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#944800",
+        "marker-color": "#B22A00",
         "snr2": 4,
-        "rssi2": 72
+        "rssi2": 42
       },
       "geometry": {
         "type": "Point",
@@ -532,19 +722,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -94,
-        "snr": 7.800000190734863,
+        "rssi": -94.0,
+        "snr": 7.8000001907348633,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#667600",
+        "marker-color": "#974500",
         "snr2": 37,
-        "rssi2": 118
+        "rssi2": 69
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.629759788513184,
-          50.92823028564453
+          50.928230285644531
         ]
       }
     },
@@ -552,19 +742,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -101,
+        "rssi": -101.0,
         "snr": 8.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#8A5200",
+        "marker-color": "#AC3000",
         "snr2": 47,
-        "rssi2": 82
+        "rssi2": 48
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.628789901733398,
-          50.92805099487305
+          50.928050994873047
         ]
       }
     },
@@ -572,13 +762,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -106,
-        "snr": 8.199999809265137,
+        "rssi": -106.0,
+        "snr": 8.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A43800",
+        "marker-color": "#BB2100",
         "snr2": 43,
-        "rssi2": 56
+        "rssi2": 33
       },
       "geometry": {
         "type": "Point",
@@ -592,18 +782,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -106,
-        "snr": 2,
+        "rssi": -106.0,
+        "snr": 2.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A43800",
-        "rssi2": 56
+        "marker-color": "#BB2100",
+        "rssi2": 33
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.631230354309082,
-          50.92802047729492
+          50.928020477294922
         ]
       }
     },
@@ -611,18 +801,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -110,
-        "snr": 3,
+        "rssi": -110.0,
+        "snr": 3.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#B82400",
-        "rssi2": 36
+        "marker-color": "#C71500",
+        "rssi2": 21
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.632120132446289,
-          50.92829895019531
+          50.928298950195312
         ]
       }
     },
@@ -630,19 +820,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -105,
-        "snr": 6.800000190734863,
+        "rssi": -105.0,
+        "snr": 6.8000001907348633,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#9F3D00",
+        "marker-color": "#B82400",
         "snr2": 23,
-        "rssi2": 61
+        "rssi2": 36
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.632360458374023,
-          50.92900848388672
+          50.929008483886719
         ]
       }
     },
@@ -650,19 +840,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -94,
+        "rssi": -94.0,
         "snr": 9.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#667600",
+        "marker-color": "#974500",
         "snr2": 61,
-        "rssi2": 118
+        "rssi2": 69
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.630820274353027,
-          50.92979049682617
+          50.929790496826172
         ]
       }
     },
@@ -670,19 +860,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -97,
-        "snr": 8.199999809265137,
+        "rssi": -97.0,
+        "snr": 8.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#766600",
+        "marker-color": "#A03C00",
         "snr2": 43,
-        "rssi2": 102
+        "rssi2": 60
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.630149841308594,
-          50.93070983886719
+          50.930709838867188
         ]
       }
     },
@@ -690,19 +880,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -87,
-        "snr": 7,
+        "rssi": -87.0,
+        "snr": 7.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#439900",
+        "marker-color": "#825A00",
         "snr2": 26,
-        "rssi2": 153
+        "rssi2": 90
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.628510475158691,
-          50.93193054199219
+          50.931930541992188
         ]
       }
     },
@@ -710,19 +900,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -91,
-        "snr": 7,
+        "rssi": -91.0,
+        "snr": 7.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#578500",
+        "marker-color": "#8E4E00",
         "snr2": 26,
-        "rssi2": 133
+        "rssi2": 78
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.62693977355957,
-          50.93204879760742
+          50.932048797607422
         ]
       }
     },
@@ -730,13 +920,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -83,
-        "snr": 9.800000190734863,
+        "rssi": -83.0,
+        "snr": 9.8000001907348633,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#2EAE00",
+        "marker-color": "#766600",
         "snr2": 66,
-        "rssi2": 174
+        "rssi2": 102
       },
       "geometry": {
         "type": "Point",
@@ -750,12 +940,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -99,
+        "rssi": -99.0,
         "snr": 2.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#805C00",
-        "rssi2": 92
+        "marker-color": "#A63600",
+        "rssi2": 54
       },
       "geometry": {
         "type": "Point",
@@ -769,19 +959,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -107,
-        "snr": 6,
+        "rssi": -107.0,
+        "snr": 6.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A93300",
+        "marker-color": "#BE1E00",
         "snr2": 11,
-        "rssi2": 51
+        "rssi2": 30
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.627169609069824,
-          50.92924118041992
+          50.929241180419922
         ]
       }
     },
@@ -789,19 +979,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -100,
-        "snr": 8.199999809265137,
+        "rssi": -100.0,
+        "snr": 8.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#855700",
+        "marker-color": "#A93300",
         "snr2": 43,
-        "rssi2": 87
+        "rssi2": 51
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.626250267028809,
-          50.92921829223633
+          50.929218292236328
         ]
       }
     },
@@ -809,19 +999,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -94,
+        "rssi": -94.0,
         "snr": 8.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#667600",
+        "marker-color": "#974500",
         "snr2": 47,
-        "rssi2": 118
+        "rssi2": 69
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.6254301071167,
-          50.92797088623047
+          50.927970886230469
         ]
       }
     },
@@ -829,13 +1019,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -91,
-        "snr": 9.199999809265137,
+        "rssi": -91.0,
+        "snr": 9.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#578500",
+        "marker-color": "#8E4E00",
         "snr2": 57,
-        "rssi2": 133
+        "rssi2": 78
       },
       "geometry": {
         "type": "Point",
@@ -849,12 +1039,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -99,
-        "snr": 5.199999809265137,
+        "rssi": -99.0,
+        "snr": 5.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#805C00",
-        "rssi2": 92
+        "marker-color": "#A63600",
+        "rssi2": 54
       },
       "geometry": {
         "type": "Point",
@@ -868,19 +1058,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -109,
-        "snr": 6.199999809265137,
+        "rssi": -109.0,
+        "snr": 6.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#B32900",
+        "marker-color": "#C41800",
         "snr2": 14,
-        "rssi2": 41
+        "rssi2": 24
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.62537956237793,
-          50.92871856689453
+          50.928718566894531
         ]
       }
     },
@@ -888,18 +1078,18 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -105,
-        "snr": 3.799999952316284,
+        "rssi": -105.0,
+        "snr": 3.7999999523162842,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#9F3D00",
-        "rssi2": 61
+        "marker-color": "#B82400",
+        "rssi2": 36
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.626009941101074,
-          50.93046188354492
+          50.930461883544922
         ]
       }
     },
@@ -907,13 +1097,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -103,
-        "snr": 8,
+        "rssi": -103.0,
+        "snr": 8.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#944800",
+        "marker-color": "#B22A00",
         "snr2": 40,
-        "rssi2": 72
+        "rssi2": 42
       },
       "geometry": {
         "type": "Point",
@@ -927,19 +1117,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -107,
-        "snr": 8,
+        "rssi": -107.0,
+        "snr": 8.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A93300",
+        "marker-color": "#BE1E00",
         "snr2": 40,
-        "rssi2": 51
+        "rssi2": 30
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.622269630432129,
-          50.92972946166992
+          50.929729461669922
         ]
       }
     },
@@ -947,19 +1137,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -106,
-        "snr": 8.199999809265137,
+        "rssi": -106.0,
+        "snr": 8.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#A43800",
+        "marker-color": "#BB2100",
         "snr2": 43,
-        "rssi2": 56
+        "rssi2": 33
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.621199607849121,
-          50.92982864379883
+          50.929828643798828
         ]
       }
     },
@@ -967,19 +1157,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -99,
+        "rssi": -99.0,
         "snr": 7.5,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#805C00",
+        "marker-color": "#A63600",
         "snr2": 33,
-        "rssi2": 92
+        "rssi2": 54
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.621870040893555,
-          50.92938995361328
+          50.929389953613281
         ]
       }
     },
@@ -987,12 +1177,12 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -95,
-        "snr": 5,
+        "rssi": -95.0,
+        "snr": 5.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#6B7100",
-        "rssi2": 113
+        "marker-color": "#9A4200",
+        "rssi2": 66
       },
       "geometry": {
         "type": "Point",
@@ -1006,19 +1196,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -95,
-        "snr": 7,
+        "rssi": -95.0,
+        "snr": 7.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#6B7100",
+        "marker-color": "#9A4200",
         "snr2": 26,
-        "rssi2": 113
+        "rssi2": 66
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.623310089111328,
-          50.92721176147461
+          50.927211761474609
         ]
       }
     },
@@ -1026,19 +1216,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -88,
-        "snr": 9,
+        "rssi": -88.0,
+        "snr": 9.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#489400",
+        "marker-color": "#855700",
         "snr2": 54,
-        "rssi2": 148
+        "rssi2": 87
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.620570182800293,
-          50.92731857299805
+          50.927318572998047
         ]
       }
     },
@@ -1046,13 +1236,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -101,
-        "snr": 8,
+        "rssi": -101.0,
+        "snr": 8.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#8A5200",
+        "marker-color": "#AC3000",
         "snr2": 40,
-        "rssi2": 82
+        "rssi2": 48
       },
       "geometry": {
         "type": "Point",
@@ -1066,19 +1256,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -86,
-        "snr": 7,
+        "rssi": -86.0,
+        "snr": 7.0,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#3D9F00",
+        "marker-color": "#7F5D00",
         "snr2": 26,
-        "rssi2": 159
+        "rssi2": 93
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.617870330810547,
-          50.93251037597656
+          50.932510375976562
         ]
       }
     },
@@ -1086,13 +1276,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -89,
-        "snr": 7.199999809265137,
+        "rssi": -89.0,
+        "snr": 7.1999998092651367,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#4D8F00",
+        "marker-color": "#885400",
         "snr2": 29,
-        "rssi2": 143
+        "rssi2": 84
       },
       "geometry": {
         "type": "Point",
@@ -1106,19 +1296,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -89,
+        "rssi": -89.0,
         "snr": 10.199999809265137,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#4D8F00",
+        "marker-color": "#885400",
         "snr2": 71,
-        "rssi2": 143
+        "rssi2": 84
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.620039939880371,
-          50.93286895751953
+          50.932868957519531
         ]
       }
     },
@@ -1126,19 +1316,19 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -74,
-        "snr": 7.800000190734863,
+        "rssi": -74.0,
+        "snr": 7.8000001907348633,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#00DC00",
+        "marker-color": "#5A8200",
         "snr2": 37,
-        "rssi2": 220
+        "rssi2": 130
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.624600410461426,
-          50.93272018432617
+          50.932720184326172
         ]
       }
     },
@@ -1146,13 +1336,13 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -85,
+        "rssi": -85.0,
         "snr": 10.199999809265137,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#38A400",
+        "marker-color": "#7C6000",
         "snr2": 71,
-        "rssi2": 164
+        "rssi2": 96
       },
       "geometry": {
         "type": "Point",
@@ -1166,18 +1356,1900 @@
       "type": "Feature",
       "properties": {
         "gtw_id": "eui-0001fcc23d0dde64",
-        "rssi": -95,
-        "snr": 2.200000047683716,
+        "rssi": -95.0,
+        "snr": 2.2000000476837158,
         "data_rate": "SF7BW125",
         "coding_rate": "4/5",
-        "marker-color": "#6B7100",
-        "rssi2": 113
+        "marker-color": "#9A4200",
+        "rssi2": 66
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.62559986114502,
-          50.93204116821289
+          50.932041168212891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -59.0,
+        "snr": 6.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#2DAF00",
+        "snr2": 23,
+        "rssi2": 175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624679565429688,
+          50.931961059570312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -53.0,
+        "snr": 9.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#1BC100",
+        "snr2": 57,
+        "rssi2": 193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624650001525879,
+          50.932121276855469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -67.0,
+        "snr": 9.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#459700",
+        "snr2": 61,
+        "rssi2": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624730110168457,
+          50.931770324707031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -57.0,
+        "snr": 10.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#27B500",
+        "snr2": 69,
+        "rssi2": 181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624790191650391,
+          50.931720733642578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -76.0,
+        "snr": 7.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#607C00",
+        "snr2": 29,
+        "rssi2": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624970436096191,
+          50.931739807128906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -69.0,
+        "snr": 9.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#4B9100",
+        "snr2": 66,
+        "rssi2": 145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625470161437988,
+          50.9316291809082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -83.0,
+        "snr": 6.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#766600",
+        "snr2": 23,
+        "rssi2": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625760078430176,
+          50.9315299987793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -83.0,
+        "snr": 7.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#766600",
+        "snr2": 29,
+        "rssi2": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625760078430176,
+          50.931358337402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -93.0,
+        "snr": 9.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#944800",
+        "snr2": 66,
+        "rssi2": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62578010559082,
+          50.931068420410156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 9.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "snr2": 54,
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62621021270752,
+          50.930789947509766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -93.0,
+        "snr": 8.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#944800",
+        "snr2": 51,
+        "rssi2": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626199722290039,
+          50.930839538574219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -109.0,
+        "snr": 6.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C41800",
+        "snr2": 14,
+        "rssi2": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626290321350098,
+          50.930599212646484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -107.0,
+        "snr": 2.2000000476837158,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BE1E00",
+        "rssi2": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626839637756348,
+          50.930400848388672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -99.0,
+        "snr": 2.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A63600",
+        "rssi2": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626799583435059,
+          50.930370330810547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -98.0,
+        "snr": 8.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A33900",
+        "snr2": 40,
+        "rssi2": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627010345458984,
+          50.930091857910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -96.0,
+        "snr": 6.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#9D3F00",
+        "snr2": 14,
+        "rssi2": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627120018005371,
+          50.929969787597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -101.0,
+        "snr": 7.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#AC3000",
+        "snr2": 26,
+        "rssi2": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627280235290527,
+          50.9299201965332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -84.0,
+        "snr": 7.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#796300",
+        "snr2": 33,
+        "rssi2": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627699851989746,
+          50.929859161376953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 7.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "snr2": 29,
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627900123596191,
+          50.92974853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -103.0,
+        "snr": 7.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B22A00",
+        "snr2": 37,
+        "rssi2": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628100395202637,
+          50.929740905761719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -107.0,
+        "snr": 3.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BE1E00",
+        "rssi2": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628860473632813,
+          50.929759979248047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -110.0,
+        "snr": -0.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C71500",
+        "rssi2": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629010200500488,
+          50.929981231689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -106.0,
+        "snr": 2.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BB2100",
+        "rssi2": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629280090332031,
+          50.930019378662109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -104.0,
+        "snr": 4.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B52700",
+        "rssi2": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629670143127441,
+          50.930080413818359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -111.0,
+        "snr": -0.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#CA1200",
+        "rssi2": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630100250244141,
+          50.930091857910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -103.0,
+        "snr": 5.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B22A00",
+        "snr2": 9,
+        "rssi2": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630330085754395,
+          50.930068969726562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -105.0,
+        "snr": -1.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B82400",
+        "rssi2": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630640029907227,
+          50.930011749267578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -109.0,
+        "snr": 1.2000000476837158,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C41800",
+        "rssi2": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630949974060059,
+          50.929988861083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -107.0,
+        "snr": 2.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BE1E00",
+        "rssi2": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630760192871094,
+          50.930011749267578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -110.0,
+        "snr": -4.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C71500",
+        "rssi2": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631640434265137,
+          50.930061340332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -106.0,
+        "snr": 1.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BB2100",
+        "rssi2": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63185977935791,
+          50.930099487304688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -106.0,
+        "snr": 4.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BB2100",
+        "rssi2": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632060050964356,
+          50.930130004882812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -111.0,
+        "snr": -0.20000000298023224,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#CA1200",
+        "rssi2": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632169723510742,
+          50.929878234863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -109.0,
+        "snr": 3.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C41800",
+        "rssi2": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632169723510742,
+          50.9298095703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -110.0,
+        "snr": 3.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C71500",
+        "rssi2": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63245964050293,
+          50.929611206054688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -106.0,
+        "snr": 1.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BB2100",
+        "rssi2": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632519721984863,
+          50.929519653320312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -113.0,
+        "snr": -0.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#D00C00",
+        "rssi2": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632729530334473,
+          50.928791046142578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -110.0,
+        "snr": 0.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C71500",
+        "rssi2": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632419586181641,
+          50.928398132324219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -102.0,
+        "snr": 5.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#AF2D00",
+        "snr2": 9,
+        "rssi2": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632209777832031,
+          50.928321838378906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -107.0,
+        "snr": 3.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BE1E00",
+        "rssi2": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631369590759277,
+          50.928131103515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -99.0,
+        "snr": 7.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A63600",
+        "snr2": 33,
+        "rssi2": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631250381469727,
+          50.928020477294922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -104.0,
+        "snr": 5.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B52700",
+        "snr2": 4,
+        "rssi2": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631340026855469,
+          50.927730560302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -101.0,
+        "snr": 2.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#AC3000",
+        "rssi2": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631400108337402,
+          50.9276008605957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -94.0,
+        "snr": 8.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#974500",
+        "snr2": 40,
+        "rssi2": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631019592285156,
+          50.92755126953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -98.0,
+        "snr": 6.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A33900",
+        "snr2": 23,
+        "rssi2": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630570411682129,
+          50.927490234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -99.0,
+        "snr": 4.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A63600",
+        "rssi2": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630330085754395,
+          50.92742919921875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -103.0,
+        "snr": 6.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B22A00",
+        "snr2": 23,
+        "rssi2": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629899978637695,
+          50.927349090576172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -100.0,
+        "snr": 7.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A93300",
+        "snr2": 26,
+        "rssi2": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.629500389099121,
+          50.927280426025391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -107.0,
+        "snr": 5.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BE1E00",
+        "rssi2": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628999710083008,
+          50.927299499511719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -89.0,
+        "snr": 9.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#885400",
+        "snr2": 61,
+        "rssi2": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.628829956054688,
+          50.927238464355469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -93.0,
+        "snr": 7.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#944800",
+        "snr2": 26,
+        "rssi2": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62837028503418,
+          50.927268981933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 8.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "snr2": 47,
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627960205078125,
+          50.9273796081543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -100.0,
+        "snr": 3.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A93300",
+        "rssi2": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627679824829102,
+          50.927421569824219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 7.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "snr2": 26,
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.627180099487305,
+          50.92742919921875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -106.0,
+        "snr": 1.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BB2100",
+        "rssi2": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626779556274414,
+          50.927391052246094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -95.0,
+        "snr": 9.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#9A4200",
+        "snr2": 61,
+        "rssi2": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626580238342285,
+          50.927391052246094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -105.0,
+        "snr": 5.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B82400",
+        "snr2": 4,
+        "rssi2": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625439643859863,
+          50.927299499511719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -102.0,
+        "snr": 5.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#AF2D00",
+        "rssi2": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625619888305664,
+          50.927310943603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 3.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624950408935547,
+          50.927219390869141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -94.0,
+        "snr": 8.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#974500",
+        "snr2": 43,
+        "rssi2": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62460994720459,
+          50.927211761474609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -94.0,
+        "snr": 8.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#974500",
+        "snr2": 43,
+        "rssi2": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624380111694336,
+          50.927230834960938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -99.0,
+        "snr": 4.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A63600",
+        "rssi2": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623950004577637,
+          50.927310943603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -89.0,
+        "snr": 8.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#885400",
+        "snr2": 51,
+        "rssi2": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623570442199707,
+          50.927391052246094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -100.0,
+        "snr": 7.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A93300",
+        "snr2": 26,
+        "rssi2": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623430252075195,
+          50.92742919921875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -101.0,
+        "snr": 5.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#AC3000",
+        "rssi2": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623180389404297,
+          50.927631378173828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -100.0,
+        "snr": 6.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A93300",
+        "snr2": 14,
+        "rssi2": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622859954833984,
+          50.927890777587891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -107.0,
+        "snr": -3.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BE1E00",
+        "rssi2": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622759819030762,
+          50.927959442138672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -100.0,
+        "snr": 7.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A93300",
+        "snr2": 29,
+        "rssi2": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622260093688965,
+          50.928001403808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -94.0,
+        "snr": 8.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#974500",
+        "snr2": 51,
+        "rssi2": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6218900680542,
+          50.9280891418457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -95.0,
+        "snr": 7.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#9A4200",
+        "snr2": 37,
+        "rssi2": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.621829986572266,
+          50.928180694580078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -105.0,
+        "snr": 7.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B82400",
+        "snr2": 26,
+        "rssi2": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622209548950195,
+          50.928508758544922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -99.0,
+        "snr": 2.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A63600",
+        "rssi2": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.621970176696777,
+          50.928508758544922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -99.0,
+        "snr": 7.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A63600",
+        "snr2": 29,
+        "rssi2": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622320175170898,
+          50.928531646728516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -104.0,
+        "snr": 3.7999999523162842,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B52700",
+        "rssi2": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.622960090637207,
+          50.928398132324219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -103.0,
+        "snr": -3.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B22A00",
+        "rssi2": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623259544372559,
+          50.928279876708984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -110.0,
+        "snr": 2.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#C71500",
+        "rssi2": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623470306396484,
+          50.928230285644531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -100.0,
+        "snr": 5.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A93300",
+        "rssi2": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624090194702148,
+          50.928241729736328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 6.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "snr2": 19,
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624059677124023,
+          50.928108215332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -95.0,
+        "snr": 8.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#9A4200",
+        "snr2": 51,
+        "rssi2": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624119758605957,
+          50.928398132324219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -105.0,
+        "snr": 4.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#B82400",
+        "rssi2": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624159812927246,
+          50.928791046142578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -94.0,
+        "snr": 8.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#974500",
+        "snr2": 51,
+        "rssi2": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624150276184082,
+          50.928909301757812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -95.0,
+        "snr": 5.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#9A4200",
+        "snr2": 9,
+        "rssi2": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62421989440918,
+          50.929359436035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -98.0,
+        "snr": 7.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A33900",
+        "snr2": 26,
+        "rssi2": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62423038482666,
+          50.929439544677734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 8.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "snr2": 40,
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624320030212402,
+          50.930011749267578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -97.0,
+        "snr": 4.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#A03C00",
+        "rssi2": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624329566955566,
+          50.930160522460938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -106.0,
+        "snr": 2.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#BB2100",
+        "rssi2": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624340057373047,
+          50.9304084777832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -89.0,
+        "snr": 6.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#885400",
+        "snr2": 14,
+        "rssi2": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624349594116211,
+          50.930690765380859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -93.0,
+        "snr": 10.0,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#944800",
+        "snr2": 69,
+        "rssi2": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624270439147949,
+          50.930828094482422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -86.0,
+        "snr": 7.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#7F5D00",
+        "snr2": 33,
+        "rssi2": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624119758605957,
+          50.931098937988281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -91.0,
+        "snr": 8.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#8E4E00",
+        "snr2": 47,
+        "rssi2": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62421989440918,
+          50.931308746337891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -93.0,
+        "snr": 10.199999809265137,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#944800",
+        "snr2": 71,
+        "rssi2": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624039649963379,
+          50.931499481201172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -81.0,
+        "snr": 9.5,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#706C00",
+        "snr2": 61,
+        "rssi2": 108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624070167541504,
+          50.931659698486328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -85.0,
+        "snr": 6.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#7C6000",
+        "snr2": 23,
+        "rssi2": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624030113220215,
+          50.931900024414062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -76.0,
+        "snr": 7.8000001907348633,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#607C00",
+        "snr2": 37,
+        "rssi2": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624279975891113,
+          50.932060241699219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -73.0,
+        "snr": 7.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#578500",
+        "snr2": 29,
+        "rssi2": 133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62444019317627,
+          50.9321403503418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gtw_id": "eui-0001fcc23d0dde64",
+        "rssi": -44.0,
+        "snr": 9.1999998092651367,
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "marker-color": "#00DC00",
+        "snr2": 57,
+        "rssi2": 220
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624890327453613,
+          50.932231903076172
         ]
       }
     }
