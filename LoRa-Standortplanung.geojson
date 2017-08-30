@@ -23,7 +23,8 @@
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "dotSource, angefragt 2017-08-20"
+        "name": "dotSource, angefragt 2017-08-20",
+        "status": "angefragt"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +40,8 @@
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "IT Paradies, angefragt 2017-08-20"
+        "name": "IT Paradies, angefragt 2017-08-20",
+        "status": "angefragt"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +57,8 @@
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Stadtwerke Jena, angefragt 2017-08-20"
+        "name": "Stadtwerke Jena, angefragt 2017-08-20",
+        "status": "angefragt"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +105,8 @@
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Lichtwerkstatt, angefragt 2017-08-07. Haben u.U. eigene Finanzmittel hierfür"
+        "name": "Lichtwerkstatt, angefragt 2017-08-07. Haben u.U. eigene Finanzmittel hierfür",
+        "status": "angefragt"
       },
       "geometry": {
         "type": "Point",
@@ -147,11 +151,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#c0c0c0",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fuchsturm",
-        "description": "Guter Blick auf Jena-Ost und Ziegenhain, Richtung Innenstadt steht jedoch zu viel Berg im Weg. Freies WLAN ist vor bereits Ort vorhanden."
+        "description": "Guter Blick auf Jena-Ost und Ziegenhain, Richtung Innenstadt steht jedoch zu viel Berg im Weg. Freies WLAN ist vor bereits Ort vorhanden.",
+        "status": "vertagt"
       },
       "geometry": {
         "type": "Point",
@@ -168,7 +173,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Jenzig",
-        "description": "Auf der Laterne der Aussichtsplattform hätte man einen guten Rundumblick auf Jena. Problem dort dürfte der Blitz- und Diebstahlschutz sein."
+        "description": "Auf der Laterne der Aussichtsplattform hätte man einen guten Rundumblick auf Jena. Problem dort dürfte der Blitz- und Diebstahlschutz sein. Alternativ am Schornstein der Gastwirtschaft. Ansprechpartner ist Finanzdezernent Frank Jauch von der Stadt Jena als Vertreter der Wilhelm-Haedrich-Stiftung.",
+        "status": "angefragt"
       },
       "geometry": {
         "type": "Point",
@@ -473,6 +479,22 @@
         "coordinates": [
           11.591906547546387,
           50.88375934188682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gaststätte Wilhelmshöhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.606605052947998,
+          50.92500353699139
         ]
       }
     }
