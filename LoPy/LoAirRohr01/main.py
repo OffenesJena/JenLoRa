@@ -33,7 +33,7 @@ orange = 0xffff00
 pycom.heartbeat(False)
 
 # Use LEDs for indicating LoRa message sending...
-useLED = False
+useLED = True
 
 # sds011
 msg_start  = 170
@@ -131,6 +131,15 @@ def readSDS011():
     tail   = s[7]
 
     cs_expected = (pm25hb + pm25lb + pm10hb + pm10lb + d5 + d6) % 256
+
+    if cs != cs_expected:
+        print("SDS011 checksum test failed")
+        return 0, 0
+
+    if tail != msg_end:
+        print("SDS011 message was not correctly terminated?")
+        return (0, 0)
+
     pm10        = str(float(pm10hb + pm10lb*256)/10.0) + "pm10"
     pm25        = str(float(pm25hb + pm25lb*256)/10.0) + "pm25"
     print(pm10, pm25)
