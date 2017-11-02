@@ -134,11 +134,11 @@ def readSDS011():
 
     if cs != cs_expected:
         print("SDS011 checksum test failed")
-        return 0, 0
+        return "0", "0"
 
     if tail != msg_end:
         print("SDS011 message was not correctly terminated?")
-        return (0, 0)
+        return "0", "0"
 
     pm10        = str(float(pm10hb + pm10lb*256)/10.0) + "pm10"
     pm25        = str(float(pm25hb + pm25lb*256)/10.0) + "pm25"
