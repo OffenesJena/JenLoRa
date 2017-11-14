@@ -453,7 +453,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff80c0",
+        "marker-color": "#ff8080",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Thüringer Landesanstalt für Landwirtschaft"
@@ -495,6 +495,22 @@
         "coordinates": [
           11.606605052947998,
           50.92500353699139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Thüringer Landesanstalt für Umwelt und Geologie (TLUG)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.596777439117432,
+          50.88396240475798
         ]
       }
     }
